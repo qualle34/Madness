@@ -1,0 +1,22 @@
+gitHubRestClientConfig:
+  baseUrl: https://raw.githubusercontent.com
+  bestNumberUri: /qualle34/Madness/main/README.md
+  bestNumberPattern: \((.*?)\)
+
+wikipediaRestClientConfig:
+  baseUrl: https://en.wikipedia.org
+  ytterbiumPageUri: /wiki/Ytterbium
+  astatinePageUri: /wiki/Astatine
+  holmiumPageUri: /wiki/Holmium
+  rheniumPageUri: /wiki/Rhenium
+  germaniumPageUri: /wiki/Germanium
+  actiniumPageUri: /wiki/Actinium
+  goldPageUri: /wiki/Gold
+  atomicNumberCssPath: "#mw-content-text .infobox > tbody > tr:contains(Atomic number) > td"
+
+httpClient:
+  connectTimeout: 10000
+  connectionRequestTimeout: 10000
+  socketTimeout: 30000
+  connectionMax: 50
+  maxPerRoute: 50

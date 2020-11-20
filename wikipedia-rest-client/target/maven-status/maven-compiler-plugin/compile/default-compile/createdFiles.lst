@@ -1,0 +1,5 @@
+com\qualle\madness\wikipedia\client\config\WikipediaRestClientConfig.class
+com\qualle\madness\wikipedia\client\retriever\AtomicNumberRetriever.class
+com\qualle\madness\wikipedia\client\WikipediaRestClientImpl.class
+com\qualle\madness\wikipedia\client\exception\WikipediaRetrieverException.class
+com\qualle\madness\wikipedia\client\WikipediaRestClient.class

@@ -1,0 +1,13 @@
+com\qualle\madness\service\ElementService.class
+com\qualle\madness\service\impl\RheniumServiceImpl.class
+com\qualle\madness\service\impl\AstatineServiceImpl.class
+com\qualle\madness\logging\LoggingHttpInterceptor.class
+com\qualle\madness\config\Configuration$HttpClient.class
+com\qualle\madness\service\impl\GoldServiceImpl.class
+com\qualle\madness\service\impl\HolmiumServiceImpl.class
+com\qualle\madness\service\impl\ActiniumServiceImpl.class
+com\qualle\madness\context\Context.class
+com\qualle\madness\service\impl\GermaniumServiceImpl.class
+com\qualle\madness\config\Configuration.class
+com\qualle\madness\context\ContextResolver.class
+com\qualle\madness\service\impl\YtterbiumServiceImpl.class

@@ -1,0 +1,5 @@
+com\qualle\madness\github\client\retriever\BestNumberRetriever.class
+com\qualle\madness\github\client\GitHubRestClient.class
+com\qualle\madness\github\client\GitHubRestClientImpl.class
+com\qualle\madness\github\client\config\GitHubRestClientConfig.class
+com\qualle\madness\github\client\exception\GitHubRetrieverException.class
